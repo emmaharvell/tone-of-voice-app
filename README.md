@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Tone of Voice Bot
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+Help to write copy in specific tones and styles
 
 ## Demo App
 
